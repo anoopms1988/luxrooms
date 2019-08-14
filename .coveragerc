@@ -1,0 +1,3 @@
+[run]
+source = luxrooms
+omit = luxrooms/test*
